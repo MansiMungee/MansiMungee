@@ -23,20 +23,6 @@
 
   ---
 
-### <h1 align="left">:superhero_woman: About Me :
-- <p align="left"> Hi :wave: I am a Data Scientist from India <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50"> </p>
-  
-- <p align="left">:telescope: I’m currently working as a Postdoctoral Research Fellow at the University of Leeds </p>
-
-- <p align="left">:seedling: I am synthesizing heterogenous datasets for unsupervised classification of temporal biodiversity trends</p>
-
-- <p align="left">:zap: In my free time, I solve problems on GeeksforGeeks and read tech articles</p>
-
-- <p align="left">:mailbox: How to reach me: :email: mansi.2303@gmail.com</p>
-
-- <p align = "left"> :page_facing_up: Know More more me Resume </p>
-  
-- <p align = "left"> :woman_technologist: All of my projects are available here<https://github.com/MansiMungee/MansiMungee/></p>
 
   
   
